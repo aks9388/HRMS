@@ -1,0 +1,65 @@
+@CHARSET "ISO-8859-1";
+
+			section.intro {
+				float: left;
+				width: 659px;
+				border-right: 1px solid #eeeeee;}
+			article {
+				clear: both;
+				overflow: auto;
+				padding-left:45px;
+				width: 90%;}
+			section.notice{
+				height: 30px;
+        		width:940px;
+        		padding-top:10px;
+        		border-bottom: 1px solid #eeeeee;}
+        	section.notice ul{
+        		margin: 0px;}
+        	section.notice li{
+        		display: inline;
+				margin-right: 40px;}
+			section.notice li a{
+			color:#DF0101;
+			text-decoration: none;}
+			section.notice li a:hover{
+			color:#DF0101;
+			text-decoration: underline;}
+			section.news li a{
+			color:#666666;
+			text-decoration: none;}
+			section.news li a:hover{
+			color:#666666;
+			text-decoration: underline;}
+			section.news h2{
+				margin: 10px 0px 5px 0px;
+				padding: 0px;
+				color:#259BC3;}
+			section.event li a{
+			color:#666666;
+			text-decoration: none;}
+			section.event li a:hover{
+			color:#666666;
+			text-decoration: underline;}
+			section.event h2{
+				margin: 10px 0px 5px 0px;
+				padding: 0px;
+				color:#259BC3;}
+			aside {
+				width: 230px;
+				float: left;
+				padding: 0px 0px 0px 20px;}
+			p{
+				text-align: justify;}
+			h1, h2, h3 {
+				font-weight: normal;}
+			h2 {
+				margin: 10px 0px 5px 0px;
+				padding: 0px;
+				color:#259BC3;}
+			h3 {
+				margin: 0px 0px 10px 0px;
+				color: #de6581;}
+			aside h2 {
+				padding: 30px 0px 10px 0px;
+				color: #de6581;}

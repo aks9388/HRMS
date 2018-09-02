@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+	section.login{
+		height:500px;
+		width:940px;}
+	section.login h2{
+		margin: 10px 0px 5px 0px;
+		padding: 150px 0px 0px 0px;
+		color:#259BC3;}
+	section.login table{
+		padding:10px 0px 0px 0px;
+	}
